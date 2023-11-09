@@ -13,6 +13,6 @@ Ovdje će biti osnove vezane za commitanje promjena.
 
 Ovdje će biti upute vezane za objavu sadržaja repozitorija na webu.
 
-#Test datoteka
+# Test datoteka
 
 [Poveznica na test.md datoteku](test.md)
